@@ -1,7 +1,8 @@
 MeteorChat
 ==========
 
-Sound chat application with different chat-rooms built on the [Meteor](http://www.meteor.com/) JavaScript Platform.
+Sound chat application that allows the user to send messages along with funny sounds!
+Different chat-rooms are available. App built on the [Meteor](http://www.meteor.com/) JavaScript Platform.
 
 Used add-on packages for later development:
 
